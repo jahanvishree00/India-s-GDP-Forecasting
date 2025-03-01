@@ -16,7 +16,7 @@ This project analyzes India's historical GDP data and forecasts future trends us
 
 ## 📂 Project Resources  
 - 📜 *Google Sheet Data*: [View here](https://docs.google.com/spreadsheets/d/1JI72EEZ0OW1dXDUGrNq2rkyfjeINN_e_DPJ6epfPNA4/edit?usp=drivesdk)  
-- 📄 *LaTeX Report*: [Download here](YOUR_GITHUB_TEX_FILE_LINK)  
+- 📄 *LaTeX Report*: [View the .tex file](PASTE_YOUR_TEX_FILE_LINK_HERE)
 
 ## 🚀 Work in Progress  
 - [x] Data Collection  
