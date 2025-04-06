@@ -32,6 +32,16 @@ This project analyzes India's historical GDP data and forecasts future trends us
 ├── 📜 report/ (LaTeX .tex file)
 ├── 📈 results/ (Graphs & Analysis)
 
+# ⏹️ Forecasting India's GDP Growth (2022–2034)
+
+This repository contains a comprehensive analysis and forecast of India's GDP growth using statistical models such as Linear Forecasting, Regression Analysis, and Moving Averages. The project utilizes IMF data and Google Sheets for calculations and visualizations.
+
+## Project Report
+
+You can download the full project report here:
+
+[Download GDP Forecast Report](./FORECAST_REPORT.pdf)
+
 
 ## 🚀 Future Improvements
 - Add model evaluation once real 2030+ GDP data is available  
