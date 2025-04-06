@@ -18,11 +18,11 @@ This project analyzes India's historical GDP data and forecasts future trends us
 - 📜 *Google Sheet Data*: [View here](https://docs.google.com/spreadsheets/d/1JI72EEZ0OW1dXDUGrNq2rkyfjeINN_e_DPJ6epfPNA4/edit?usp=drivesdk)  
 - 📄 *LaTeX Report*: [View the .tex file](main.tex)
 
-## 🚀 Work in Progress  
+## 🚀 Project Status 
 - [x] Data Collection  
-- [ ] Implementing Forecasting Models  
-- [ ] Writing LaTeX Report  
-- [ ] Finalizing Analysis  
+- [x] Implementing Forecasting Models  
+- [x] Writing LaTeX Report  
+- [x] Finalizing Analysis  
 
 ## 📁 Repository Structure
 
@@ -32,8 +32,10 @@ This project analyzes India's historical GDP data and forecasts future trends us
 ├── 📜 report/ (LaTeX .tex file)
 ├── 📈 results/ (Graphs & Analysis)
 
-## 💡 Future Improvements  
-- Exploring more advanced forecasting models like ARIMA.  
-- Visualizing data using Python.  
+
+## 🚀 Future Improvements
+- Add model evaluation once real 2030+ GDP data is available  
+- Experiment with ARIMA or other advanced forecasting models  
+- Automate data updates using external APIs (e.g., IMF, World Bank)
 
 ---
